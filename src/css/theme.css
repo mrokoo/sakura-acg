@@ -1,0 +1,9 @@
+/* 主题css */
+
+:root {
+  /* 主题样式 */
+  --main-text-color: #000000;
+  --main-bg-color: #ffffffff;
+  --navbar-bg-color: #161616;
+  --navbar-text-color: #ffffffff;
+}

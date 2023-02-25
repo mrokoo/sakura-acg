@@ -1,0 +1,79 @@
+/* 工具类 */
+
+/* 容器 */
+.container {
+  margin: 0 auto;
+}
+
+.transition-all {
+  transition: all 0.15s linear;
+}
+
+
+
+/* 网格系统 */
+.row {
+  display: flex;
+}
+
+.column-1 {
+  flex: 8.3333%;
+}
+
+.column-2 {
+  flex: 16.6667%;
+}
+
+.column-3 {
+  flex: 25%;
+}
+
+.column-4 {
+  flex: 33.3333%;
+}
+
+.column-5 {
+  flex: 41.6667%;
+}
+
+.column-6 {
+  flex: 50%;
+}
+
+.column-7 {
+  flex: 58.3333%;
+}
+
+.column-8 {
+  flex: 66.6667%;
+}
+
+.column-9 {
+  flex: 75%;
+}
+
+.column-10 {
+  flex: 83.3333%;
+}
+
+.column-11 {
+  flex: 91.6667%;
+}
+
+.column-12 {
+  flex: 100%;
+}
+
+
+/* 文本居中 */ 
+text-center {
+  text-align: center !important; 
+}
+
+/* 隐藏元素 */ 
+.hidden {
+  display: none;
+}
+
+
+
